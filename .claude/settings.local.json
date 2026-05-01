@@ -10,7 +10,8 @@
       "Bash(javascript\\\\|)",
       "Bash(grep -n \"CODE_META\\\\|```javascript\\\\|```js\" \"C:/OneDrive/OneDrive - mehmetakif.edu.tr/react-web/build/merged/book_merged.md\")",
       "Bash(grep -n \"CODE_META\\\\|```javascript\\\\|```js\" \"C:/OneDrive/OneDrive - mehmetakif.edu.tr/react-web/chapters/chapter_01_modern_web_giris.md\")",
-      "PowerShell(Select-String -Path \"C:\\\\OneDrive\\\\OneDrive - mehmetakif.edu.tr\\\\react-web\\\\chapters\\\\chapter_01_modern_web_giris.md\" -Pattern \"CODE_META\" | Select-Object -First 5 | ForEach-Object { \"Line $\\($_.LineNumber\\): $\\($_.Line.Trim\\(\\)\\)\" })"
+      "PowerShell(Select-String -Path \"C:\\\\OneDrive\\\\OneDrive - mehmetakif.edu.tr\\\\react-web\\\\chapters\\\\chapter_01_modern_web_giris.md\" -Pattern \"CODE_META\" | Select-Object -First 5 | ForEach-Object { \"Line $\\($_.LineNumber\\): $\\($_.Line.Trim\\(\\)\\)\" })",
+      "Bash(python *)"
     ]
   }
 }

@@ -37,3 +37,19 @@ post_production:
     manifest: "build/qr_manifest.yaml"
     output_dir: "assets/auto/qr"
     report: "build/reports/qr_generation_report.md"
+  exports:
+    pdf:
+      engine: xelatex
+      output: "dist/react_web.pdf"
+      variables:
+        mainfont: "Times New Roman"
+        monofont: "Consolas"
+        sansfont: "Calibri"
+        fontsize: "11pt"
+        geometry: "margin=2.5cm"
+    docx:
+      output: "dist/react_web.docx"
+    html:
+      output: "dist/react_web.html"
+    epub:
+      output: "dist/react_web.epub"
