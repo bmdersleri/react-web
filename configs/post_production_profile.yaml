@@ -33,4 +33,7 @@ post_production:
     auto_dir: "assets/auto"
     final_dir: "assets/final"
   qr:
-    enabled: false
+    enabled: true
+    manifest: "build/qr_manifest.yaml"
+    output_dir: "assets/auto/qr"
+    report: "build/reports/qr_generation_report.md"

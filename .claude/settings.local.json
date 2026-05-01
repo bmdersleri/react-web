@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m bookfactory sync-github --code-manifest build/code_manifest.json --test-report build/test_reports/code_test_report.json --require-tests-passed --owner bmdersleri --repo react-web --branch main)",
+      "Bash(python -c ' *)",
+      "Bash(python3 -c ' *)",
+      "PowerShell(python -c \"import qrcode; print\\('qrcode OK'\\)\" 2>&1)",
+      "PowerShell(python -c \"from PIL import Image; print\\('Pillow OK'\\)\" 2>&1)",
+      "PowerShell(pip install *)",
+      "Bash(javascript\\\\|)",
+      "Bash(grep -n \"CODE_META\\\\|```javascript\\\\|```js\" \"C:/OneDrive/OneDrive - mehmetakif.edu.tr/react-web/build/merged/book_merged.md\")",
+      "Bash(grep -n \"CODE_META\\\\|```javascript\\\\|```js\" \"C:/OneDrive/OneDrive - mehmetakif.edu.tr/react-web/chapters/chapter_01_modern_web_giris.md\")",
+      "PowerShell(Select-String -Path \"C:\\\\OneDrive\\\\OneDrive - mehmetakif.edu.tr\\\\react-web\\\\chapters\\\\chapter_01_modern_web_giris.md\" -Pattern \"CODE_META\" | Select-Object -First 5 | ForEach-Object { \"Line $\\($_.LineNumber\\): $\\($_.Line.Trim\\(\\)\\)\" })"
+    ]
+  }
+}
