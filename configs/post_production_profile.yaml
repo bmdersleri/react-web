@@ -16,7 +16,7 @@ chapters:
   - source: ../chapters/chapter_13_rest_api.md
   - source: ../chapters/chapter_14_zustand.md
   - source: ../chapters/chapter_15_performans_test_dagitim.md
-  - source: ../chapters/chapter_15_firebase.md
+  - source: ../chapters/chapter_16_kampushub_final.md
 
 post_production:
   build:
@@ -25,8 +25,8 @@ post_production:
   mermaid:
     output_dir: "assets/auto/diagrams"
   pandoc:
-    reference_docx: ""
-    lua_filter: ""
+    reference_docx: "pandoc/referenceV17_java_temelleri.docx"
+    lua_filter: "pandoc/styles_revised_v17.lua"
   assets:
     manual_dir: "assets/manual"
     locked_dir: "assets/locked"
