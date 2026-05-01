@@ -106,7 +106,7 @@ kind: example
 title: "KampüsHub final modül hazırlık durumu"
 file: "chapter_16/react_ch16_code01_module_readiness.js"
 extract: true
-test: node
+test: compile_run
 expected_stdout: "modules=7/8 | missing=accessibility"
 -->
 
@@ -141,7 +141,7 @@ kind: example
 title: "Final route kapsamını doğrulama"
 file: "chapter_16/react_ch16_code02_route_coverage.js"
 extract: true
-test: node
+test: compile_run
 expected_stdout: "routes=7/7 | missing=none"
 -->
 
@@ -238,7 +238,7 @@ kind: example
 title: "KampüsHub state sahipliği karar tablosu"
 file: "chapter_16/react_ch16_code03_state_ownership.js"
 extract: true
-test: node
+test: compile_run
 expected_stdout: "form=local-form | theme=zustand | notifications=redux | route=router"
 -->
 
@@ -301,7 +301,7 @@ kind: example
 title: "Dashboard veri kaynaklarını özetleme"
 file: "chapter_16/react_ch16_code04_dashboard_sources.js"
 extract: true
-test: node
+test: compile_run
 expected_stdout: "dashboard=ready | cards=3 | alerts=1"
 -->
 
@@ -351,7 +351,7 @@ kind: example
 title: "Dağıtım çevresel değişkenlerini doğrulama"
 file: "chapter_16/react_ch16_code05_env_validation.js"
 extract: true
-test: node
+test: compile_run
 expected_stdout: "env=ok | apiBase=/api | mode=production"
 -->
 
@@ -388,7 +388,7 @@ kind: example
 title: "Final release gate sonucunu hesaplama"
 file: "chapter_16/react_ch16_code06_release_gate.js"
 extract: true
-test: node
+test: compile_run
 expected_stdout: "release=blocked | failed=accessibility,smoke-test"
 -->
 
@@ -615,3 +615,5 @@ Bundan sonraki doğal ilerleme adımları şunlar olabilir:
 - Next.js veya benzeri framework yaklaşımları
 
 KampüsHub finali, yeni bir başlangıç noktasıdır. Öğrenci artık yalnızca React bileşeni yazmayı değil, bir uygulamayı planlamayı, parçalara ayırmayı, test etmeyi ve teslim etmeyi öğrenmiştir.
+
+
