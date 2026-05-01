@@ -1,0 +1,29 @@
+﻿project_root: "."
+book_slug: "react_web"
+
+chapters:
+  - source: ../chapters/chapter_01_modern_web_giris.md
+  - source: ../chapters/chapter_02_javascript_es6_react.md
+  - source: ../chapters/chapter_03_html_css_bilesen_dusuncesi.md
+  - source: ../chapters/chapter_04_jsx_bilesen_anatomisi.md
+  - source: ../chapters/chapter_05_props_veri_akisi.md
+  - source: ../chapters/chapter_06_state_yonetimi.md
+  - source: ../chapters/chapter_07_useeffect_yan_etkiler.md
+  - source: ../chapters/chapter_08_ileri_hooks.md
+
+post_production:
+  build:
+    merged_markdown: "build/merged/book_merged.md"
+    output_docx: "dist/react_web.docx"
+  mermaid:
+    output_dir: "assets/auto/diagrams"
+  pandoc:
+    reference_docx: ""
+    lua_filter: ""
+  assets:
+    manual_dir: "assets/manual"
+    locked_dir: "assets/locked"
+    auto_dir: "assets/auto"
+    final_dir: "assets/final"
+  qr:
+    enabled: false
