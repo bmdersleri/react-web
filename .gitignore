@@ -1,0 +1,19 @@
+# Build çıktıları (CI artefacts olarak sakla)
+build/
+dist/
+
+# Otomatik üretilen görseller
+assets/auto/
+
+# Geçici dosyalar
+*.bak
+*.tmp
+*.old
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+
+# Node
+node_modules/

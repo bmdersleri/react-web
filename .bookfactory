@@ -1,0 +1,10 @@
+# BookFactory Bağlantı Dosyası
+# Bu dosya, kitap projesinin hangi BookFactory sürümünü
+# kullandığını ve framework konumunu tanımlar.
+
+framework_version: "v2.11.x"
+framework_path: "../bookFactory"
+created: "2026-05-01"
+book_title: "React ile Web Uygulama Geliştirme"
+primary_language: "tr"
+cumulative_app: "KampüsHub"

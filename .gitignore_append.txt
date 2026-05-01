@@ -1,0 +1,22 @@
+# =============================================================
+# Mevcut .gitignore dosyanızın SONUNA bu bloğu ekleyin
+# =============================================================
+
+# Book project workspaces (ayrı repolarda yönetilir)
+# Her kitap projesi kendi reposunda yaşar; bu klasörü
+# sadece yerel geliştirme/test için klonlayabilirsiniz.
+workspace/
+
+# Yerel geçici dosyalar
+*.bak
+*.old
+*.tmp
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+
+# Build çıktıları (CI artefacts olarak saklanmalı)
+build/reports/
+build/*.log
