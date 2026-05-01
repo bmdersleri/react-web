@@ -25,8 +25,8 @@ post_production:
   mermaid:
     output_dir: "assets/auto/diagrams"
   pandoc:
-    reference_docx: "pandoc/referenceV17_java_temelleri.docx"
-    lua_filter: "pandoc/styles_revised_v17.lua"
+    reference_docx: "pandoc/referenceV17_react_web.docx"
+    lua_filter: "pandoc/styles_react_web.lua"
   assets:
     manual_dir: "assets/manual"
     locked_dir: "assets/locked"
