@@ -1,8 +1,10 @@
 ---
-title: "js_destructuring_profile_summary"
 code_id: "react_ch02_code02"
 language: "javascript"
 test_status: "passed"
+title: "js_destructuring_profile_summary"
+parent: "Bölüm 2: JavaScript ES6+ ve React"
+grand_parent: "Kod Örnekleri"
 ---
 
 # js_destructuring_profile_summary

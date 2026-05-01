@@ -1,8 +1,10 @@
 ---
-title: "react_ch09_code01_module_filter.js"
 code_id: "react_ch09_code01"
 language: "javascript"
 test_status: "passed"
+title: "react_ch09_code01"
+parent: "Bölüm 9: Custom Hooks"
+grand_parent: "Kod Örnekleri"
 ---
 
 # react_ch09_code01_module_filter.js

@@ -1,8 +1,10 @@
 ---
-title: "dependency_array_decision"
 code_id: "react_ch07_code02"
 language: "javascript"
 test_status: "passed"
+title: "dependency_array_decision"
+parent: "Bölüm 7: useEffect ve Yan Etkiler"
+grand_parent: "Kod Örnekleri"
 ---
 
 # dependency_array_decision

@@ -1,8 +1,10 @@
 ---
-title: "html_nav_to_data_model"
 code_id: "react_ch03_code01"
 language: "javascript"
 test_status: "passed"
+title: "html_nav_to_data_model"
+parent: "Bölüm 3: HTML/CSS ve Bileşen"
+grand_parent: "Kod Örnekleri"
 ---
 
 # html_nav_to_data_model

@@ -1,8 +1,10 @@
 ---
-title: "ref_box_without_render"
 code_id: "react_ch08_code01"
 language: "javascript"
 test_status: "passed"
+title: "ref_box_without_render"
+parent: "Bölüm 8: İleri Hooks"
+grand_parent: "Kod Örnekleri"
 ---
 
 # ref_box_without_render

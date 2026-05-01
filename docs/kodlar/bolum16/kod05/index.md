@@ -1,8 +1,10 @@
 ---
-title: "chapter_16_react_ch16_code05_env_validation.js"
 code_id: "react_ch16_code05"
 language: "javascript"
 test_status: "passed"
+title: "react_ch16_code05"
+parent: "Bölüm 16: KampüsHub Final"
+grand_parent: "Kod Örnekleri"
 ---
 
 # chapter_16_react_ch16_code05_env_validation.js

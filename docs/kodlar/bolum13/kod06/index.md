@@ -1,8 +1,10 @@
 ---
-title: "chapter_13_react_ch13_code06_post_note_request.js"
 code_id: "react_ch13_code06"
 language: "javascript"
 test_status: "passed"
+title: "react_ch13_code06"
+parent: "Bölüm 13: REST API"
+grand_parent: "Kod Örnekleri"
 ---
 
 # chapter_13_react_ch13_code06_post_note_request.js

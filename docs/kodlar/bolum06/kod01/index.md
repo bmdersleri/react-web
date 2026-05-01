@@ -1,8 +1,10 @@
 ---
-title: "initial_dashboard_state_summary"
 code_id: "react_ch06_code01"
 language: "javascript"
 test_status: "passed"
+title: "initial_dashboard_state_summary"
+parent: "Bölüm 6: State Yönetimi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # initial_dashboard_state_summary

@@ -1,8 +1,10 @@
 ---
-title: "chapter_11_react_ch11_code03_update_field.js"
 code_id: "react_ch11_code03"
 language: "javascript"
 test_status: "passed"
+title: "react_ch11_code03"
+parent: "Bölüm 11: Form Yönetimi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # chapter_11_react_ch11_code03_update_field.js

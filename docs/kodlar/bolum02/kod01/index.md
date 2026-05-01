@@ -1,8 +1,10 @@
 ---
-title: "js_template_literal_kampushub"
 code_id: "react_ch02_code01"
 language: "javascript"
 test_status: "passed"
+title: "js_template_literal_kampushub"
+parent: "Bölüm 2: JavaScript ES6+ ve React"
+grand_parent: "Kod Örnekleri"
 ---
 
 # js_template_literal_kampushub

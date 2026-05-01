@@ -1,8 +1,10 @@
 ---
-title: "parent_child_data_flow"
 code_id: "react_ch05_code04"
 language: "javascript"
 test_status: "passed"
+title: "parent_child_data_flow"
+parent: "Bölüm 5: Props ve Veri Akışı"
+grand_parent: "Kod Örnekleri"
 ---
 
 # parent_child_data_flow

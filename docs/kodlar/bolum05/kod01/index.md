@@ -1,8 +1,10 @@
 ---
-title: "props_like_object_to_card_text"
 code_id: "react_ch05_code01"
 language: "javascript"
 test_status: "passed"
+title: "props_like_object_to_card_text"
+parent: "Bölüm 5: Props ve Veri Akışı"
+grand_parent: "Kod Örnekleri"
 ---
 
 # props_like_object_to_card_text

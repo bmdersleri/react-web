@@ -1,8 +1,10 @@
 ---
-title: "kampushub_selamlama"
 code_id: "react_ch01_code01"
 language: "javascript"
 test_status: "passed"
+title: "kampushub_selamlama"
+parent: "Bölüm 1: Modern Web'e Giriş"
+grand_parent: "Kod Örnekleri"
 ---
 
 # kampushub_selamlama

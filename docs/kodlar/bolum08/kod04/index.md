@@ -1,8 +1,10 @@
 ---
-title: "callback_identity_by_dependency"
 code_id: "react_ch08_code04"
 language: "javascript"
 test_status: "passed"
+title: "callback_identity_by_dependency"
+parent: "Bölüm 8: İleri Hooks"
+grand_parent: "Kod Örnekleri"
 ---
 
 # callback_identity_by_dependency

@@ -1,8 +1,10 @@
 ---
-title: "dependency_change_checker"
 code_id: "react_ch07_code04"
 language: "javascript"
 test_status: "passed"
+title: "dependency_change_checker"
+parent: "Bölüm 7: useEffect ve Yan Etkiler"
+grand_parent: "Kod Örnekleri"
 ---
 
 # dependency_change_checker

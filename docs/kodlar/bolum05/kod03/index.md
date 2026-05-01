@@ -1,8 +1,10 @@
 ---
-title: "map_modules_to_card_summaries"
 code_id: "react_ch05_code03"
 language: "javascript"
 test_status: "passed"
+title: "map_modules_to_card_summaries"
+parent: "Bölüm 5: Props ve Veri Akışı"
+grand_parent: "Kod Örnekleri"
 ---
 
 # map_modules_to_card_summaries

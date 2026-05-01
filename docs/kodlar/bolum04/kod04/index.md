@@ -1,8 +1,10 @@
 ---
-title: "conditional_classname"
 code_id: "react_ch04_code04"
 language: "javascript"
 test_status: "passed"
+title: "conditional_classname"
+parent: "Bölüm 4: JSX ve Bileşen Anatomisi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # conditional_classname

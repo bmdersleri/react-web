@@ -1,8 +1,10 @@
 ---
-title: "module_card_class_name_builder"
 code_id: "react_ch03_code04"
 language: "javascript"
 test_status: "passed"
+title: "module_card_class_name_builder"
+parent: "Bölüm 3: HTML/CSS ve Bileşen"
+grand_parent: "Kod Örnekleri"
 ---
 
 # module_card_class_name_builder

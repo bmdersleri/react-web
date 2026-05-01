@@ -1,8 +1,10 @@
 ---
-title: "react_ch10_code02_navlink_active.js"
 code_id: "react_ch10_code02"
 language: "javascript"
 test_status: "passed"
+title: "react_ch10_code02"
+parent: "Bölüm 10: React Router"
+grand_parent: "Kod Örnekleri"
 ---
 
 # react_ch10_code02_navlink_active.js

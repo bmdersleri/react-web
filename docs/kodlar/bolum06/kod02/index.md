@@ -1,8 +1,10 @@
 ---
-title: "selected_module_state_transition"
 code_id: "react_ch06_code02"
 language: "javascript"
 test_status: "passed"
+title: "selected_module_state_transition"
+parent: "Bölüm 6: State Yönetimi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # selected_module_state_transition

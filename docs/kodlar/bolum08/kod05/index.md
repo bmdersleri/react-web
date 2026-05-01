@@ -1,8 +1,10 @@
 ---
-title: "campushub_dashboard_view_model"
 code_id: "react_ch08_code05"
 language: "javascript"
 test_status: "passed"
+title: "campushub_dashboard_view_model"
+parent: "Bölüm 8: İleri Hooks"
+grand_parent: "Kod Örnekleri"
 ---
 
 # campushub_dashboard_view_model

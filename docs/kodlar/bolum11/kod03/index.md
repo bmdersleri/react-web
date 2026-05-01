@@ -1,8 +1,10 @@
 ---
-title: "chapter_11_react_ch11_code05_note_payload.js"
 code_id: "react_ch11_code05"
 language: "javascript"
 test_status: "passed"
+title: "react_ch11_code05"
+parent: "Bölüm 11: Form Yönetimi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # chapter_11_react_ch11_code05_note_payload.js

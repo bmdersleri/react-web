@@ -1,8 +1,10 @@
 ---
-title: "component_return_model"
 code_id: "react_ch04_code02"
 language: "javascript"
 test_status: "passed"
+title: "component_return_model"
+parent: "Bölüm 4: JSX ve Bileşen Anatomisi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # component_return_model

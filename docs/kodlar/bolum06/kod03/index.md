@@ -1,8 +1,10 @@
 ---
-title: "functional_update_unread_count"
 code_id: "react_ch06_code03"
 language: "javascript"
 test_status: "passed"
+title: "functional_update_unread_count"
+parent: "Bölüm 6: State Yönetimi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # functional_update_unread_count

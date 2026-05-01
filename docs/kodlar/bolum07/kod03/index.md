@@ -1,8 +1,10 @@
 ---
-title: "fake_announcements_loader"
 code_id: "react_ch07_code03"
 language: "javascript"
 test_status: "passed"
+title: "fake_announcements_loader"
+parent: "Bölüm 7: useEffect ve Yan Etkiler"
+grand_parent: "Kod Örnekleri"
 ---
 
 # fake_announcements_loader

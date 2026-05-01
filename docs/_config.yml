@@ -1,5 +1,49 @@
-title: "React ile Web Uygulama Geliştirme — Kod Sayfaları"
+title: "React ile Web Uygulama Geliştirme"
+description: "Kitap kod örnekleri — 88 JavaScript bloğu, 16 bölüm, tümü test geçti"
 baseurl: "/react-web"
 url: "https://bmdersleri.github.io"
+
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# ── Just-the-Docs ──────────────────────────────────────────────────────
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Başa dön"
+footer_content: >
+  <b>React ile Web Uygulama Geliştirme</b> — BookFactory ile üretilmiştir.
+  <a href="https://github.com/bmdersleri/react-web">GitHub</a>
+
+color_scheme: default
+
+aux_links:
+  "GitHub →":
+    - "https://github.com/bmdersleri/react-web"
+aux_links_new_tab: true
+
+# ── Dil / encoding ──────────────────────────────────────────────────────
+lang: tr
+encoding: utf-8
 markdown: kramdown
-theme: minima
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1

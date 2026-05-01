@@ -1,8 +1,10 @@
 ---
-title: "effect_candidate_classifier"
 code_id: "react_ch07_code01"
 language: "javascript"
 test_status: "passed"
+title: "effect_candidate_classifier"
+parent: "Bölüm 7: useEffect ve Yan Etkiler"
+grand_parent: "Kod Örnekleri"
 ---
 
 # effect_candidate_classifier

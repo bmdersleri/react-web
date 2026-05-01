@@ -1,8 +1,10 @@
 ---
-title: "module_card_summary"
 code_id: "react_ch04_code03"
 language: "javascript"
 test_status: "passed"
+title: "module_card_summary"
+parent: "Bölüm 4: JSX ve Bileşen Anatomisi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # module_card_summary

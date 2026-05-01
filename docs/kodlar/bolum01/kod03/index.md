@@ -1,8 +1,10 @@
 ---
-title: "code_meta_dogru_kullanim"
 code_id: "react_ch01_code03"
 language: "javascript"
 test_status: "passed"
+title: "code_meta_dogru_kullanim"
+parent: "Bölüm 1: Modern Web'e Giriş"
+grand_parent: "Kod Örnekleri"
 ---
 
 # code_meta_dogru_kullanim

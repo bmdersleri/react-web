@@ -1,8 +1,10 @@
 ---
-title: "fake_storage_preferences"
 code_id: "react_ch07_code06"
 language: "javascript"
 test_status: "passed"
+title: "fake_storage_preferences"
+parent: "Bölüm 7: useEffect ve Yan Etkiler"
+grand_parent: "Kod Örnekleri"
 ---
 
 # fake_storage_preferences

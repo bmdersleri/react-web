@@ -1,8 +1,10 @@
 ---
-title: "accessibility_warning_counter"
 code_id: "react_ch03_code05"
 language: "javascript"
 test_status: "passed"
+title: "accessibility_warning_counter"
+parent: "Bölüm 3: HTML/CSS ve Bileşen"
+grand_parent: "Kod Örnekleri"
 ---
 
 # accessibility_warning_counter

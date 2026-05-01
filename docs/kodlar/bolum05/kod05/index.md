@@ -1,8 +1,10 @@
 ---
-title: "simple_prop_contract_check"
 code_id: "react_ch05_code05"
 language: "javascript"
 test_status: "passed"
+title: "simple_prop_contract_check"
+parent: "Bölüm 5: Props ve Veri Akışı"
+grand_parent: "Kod Örnekleri"
 ---
 
 # simple_prop_contract_check

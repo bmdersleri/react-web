@@ -1,8 +1,10 @@
 ---
-title: "context_value_snapshot"
 code_id: "react_ch08_code02"
 language: "javascript"
 test_status: "passed"
+title: "context_value_snapshot"
+parent: "Bölüm 8: İleri Hooks"
+grand_parent: "Kod Örnekleri"
 ---
 
 # context_value_snapshot

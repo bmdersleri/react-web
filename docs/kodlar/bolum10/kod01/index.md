@@ -1,8 +1,10 @@
 ---
-title: "react_ch10_code01_routes.js"
 code_id: "react_ch10_code01"
 language: "javascript"
 test_status: "passed"
+title: "react_ch10_code01"
+parent: "Bölüm 10: React Router"
+grand_parent: "Kod Örnekleri"
 ---
 
 # react_ch10_code01_routes.js

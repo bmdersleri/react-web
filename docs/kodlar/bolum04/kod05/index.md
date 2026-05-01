@@ -1,8 +1,10 @@
 ---
-title: "component_tree_summary"
 code_id: "react_ch04_code05"
 language: "javascript"
 test_status: "passed"
+title: "component_tree_summary"
+parent: "Bölüm 4: JSX ve Bileşen Anatomisi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # component_tree_summary

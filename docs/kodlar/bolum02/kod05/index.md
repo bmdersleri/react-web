@@ -1,8 +1,10 @@
 ---
-title: "js_async_await_mock_announcements"
 code_id: "react_ch02_code05"
 language: "javascript"
 test_status: "passed"
+title: "js_async_await_mock_announcements"
+parent: "Bölüm 2: JavaScript ES6+ ve React"
+grand_parent: "Kod Örnekleri"
 ---
 
 # js_async_await_mock_announcements

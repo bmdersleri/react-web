@@ -1,8 +1,10 @@
 ---
-title: "js_array_methods_module_cards"
 code_id: "react_ch02_code03"
 language: "javascript"
 test_status: "passed"
+title: "js_array_methods_module_cards"
+parent: "Bölüm 2: JavaScript ES6+ ve React"
+grand_parent: "Kod Örnekleri"
 ---
 
 # js_array_methods_module_cards

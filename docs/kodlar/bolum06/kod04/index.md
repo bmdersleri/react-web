@@ -1,8 +1,10 @@
 ---
-title: "immutable_favorite_event_update"
 code_id: "react_ch06_code04"
 language: "javascript"
 test_status: "passed"
+title: "immutable_favorite_event_update"
+parent: "Bölüm 6: State Yönetimi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # immutable_favorite_event_update

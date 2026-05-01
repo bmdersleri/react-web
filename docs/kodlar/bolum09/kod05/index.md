@@ -1,8 +1,10 @@
 ---
-title: "react_ch09_code05_dashboard_model.js"
 code_id: "react_ch09_code05"
 language: "javascript"
 test_status: "passed"
+title: "react_ch09_code05"
+parent: "Bölüm 9: Custom Hooks"
+grand_parent: "Kod Örnekleri"
 ---
 
 # react_ch09_code05_dashboard_model.js

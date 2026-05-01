@@ -1,8 +1,10 @@
 ---
-title: "chapter_13_react_ch13_code04_loading_state_reducer.js"
 code_id: "react_ch13_code04"
 language: "javascript"
 test_status: "passed"
+title: "react_ch13_code04"
+parent: "Bölüm 13: REST API"
+grand_parent: "Kod Örnekleri"
 ---
 
 # chapter_13_react_ch13_code04_loading_state_reducer.js

@@ -1,8 +1,10 @@
 ---
-title: "destructuring_default_values"
 code_id: "react_ch05_code02"
 language: "javascript"
 test_status: "passed"
+title: "destructuring_default_values"
+parent: "Bölüm 5: Props ve Veri Akışı"
+grand_parent: "Kod Örnekleri"
 ---
 
 # destructuring_default_values

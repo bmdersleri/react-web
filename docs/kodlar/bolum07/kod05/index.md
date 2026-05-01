@@ -1,8 +1,10 @@
 ---
-title: "cleanup_subscription_registry"
 code_id: "react_ch07_code05"
 language: "javascript"
 test_status: "passed"
+title: "cleanup_subscription_registry"
+parent: "Bölüm 7: useEffect ve Yan Etkiler"
+grand_parent: "Kod Örnekleri"
 ---
 
 # cleanup_subscription_registry

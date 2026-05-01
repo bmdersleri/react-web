@@ -1,8 +1,10 @@
 ---
-title: "js_immutable_announcement_update"
 code_id: "react_ch02_code04"
 language: "javascript"
 test_status: "passed"
+title: "js_immutable_announcement_update"
+parent: "Bölüm 2: JavaScript ES6+ ve React"
+grand_parent: "Kod Örnekleri"
 ---
 
 # js_immutable_announcement_update

@@ -1,8 +1,10 @@
 ---
-title: "memoized_module_summary"
 code_id: "react_ch08_code03"
 language: "javascript"
 test_status: "passed"
+title: "memoized_module_summary"
+parent: "Bölüm 8: İleri Hooks"
+grand_parent: "Kod Örnekleri"
 ---
 
 # memoized_module_summary

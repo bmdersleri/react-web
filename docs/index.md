@@ -1,94 +1,51 @@
-# BookFactory Generated Code Index
+---
+title: Ana Sayfa
+nav_order: 1
+---
 
-Generated at: `2026-05-01T18:50:57.568512+00:00`
+# React ile Web Uygulama Geliştirme
+{: .fs-9 }
 
-| Chapter | Code | File | Test | Source | Page |
-|---|---|---|---|---|---|
-| `bolum01` | `kod01` | `kampushub_selamlama.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum01/kod01/kampushub_selamlama.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum01/kod01) |
-| `bolum01` | `kod02` | `kampushub_proje_bilgisi.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum01/kod02/kampushub_proje_bilgisi.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum01/kod02) |
-| `bolum01` | `kod03` | `code_meta_dogru_kullanim.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum01/kod03/code_meta_dogru_kullanim.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum01/kod03) |
-| `bolum02` | `kod01` | `kampushub_template_literal.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum02/kod01/kampushub_template_literal.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum02/kod01) |
-| `bolum02` | `kod02` | `kampushub_profile_summary.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum02/kod02/kampushub_profile_summary.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum02/kod02) |
-| `bolum02` | `kod03` | `kampushub_module_cards.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum02/kod03/kampushub_module_cards.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum02/kod03) |
-| `bolum02` | `kod04` | `kampushub_immutable_update.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum02/kod04/kampushub_immutable_update.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum02/kod04) |
-| `bolum02` | `kod05` | `kampushub_async_announcements.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum02/kod05/kampushub_async_announcements.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum02/kod05) |
-| `bolum03` | `kod01` | `html_nav_to_data_model.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum03/kod01/html_nav_to_data_model.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum03/kod01) |
-| `bolum03` | `kod02` | `semantic_regions_to_component_candidates.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum03/kod02/semantic_regions_to_component_candidates.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum03/kod02) |
-| `bolum03` | `kod03` | `kampushub_component_inventory.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum03/kod03/kampushub_component_inventory.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum03/kod03) |
-| `bolum03` | `kod04` | `module_card_class_name_builder.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum03/kod04/module_card_class_name_builder.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum03/kod04) |
-| `bolum03` | `kod05` | `accessibility_warning_counter.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum03/kod05/accessibility_warning_counter.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum03/kod05) |
-| `bolum04` | `kod01` | `jsx_expression_model.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum04/kod01/jsx_expression_model.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum04/kod01) |
-| `bolum04` | `kod02` | `component_return_model.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum04/kod02/component_return_model.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum04/kod02) |
-| `bolum04` | `kod03` | `module_card_summary.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum04/kod03/module_card_summary.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum04/kod03) |
-| `bolum04` | `kod04` | `conditional_classname.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum04/kod04/conditional_classname.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum04/kod04) |
-| `bolum04` | `kod05` | `component_tree_summary.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum04/kod05/component_tree_summary.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum04/kod05) |
-| `bolum05` | `kod01` | `props_like_object_to_card_text.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum05/kod01/props_like_object_to_card_text.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum05/kod01) |
-| `bolum05` | `kod02` | `destructuring_default_values.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum05/kod02/destructuring_default_values.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum05/kod02) |
-| `bolum05` | `kod03` | `map_modules_to_card_summaries.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum05/kod03/map_modules_to_card_summaries.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum05/kod03) |
-| `bolum05` | `kod04` | `parent_child_data_flow.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum05/kod04/parent_child_data_flow.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum05/kod04) |
-| `bolum05` | `kod05` | `simple_prop_contract_check.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum05/kod05/simple_prop_contract_check.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum05/kod05) |
-| `bolum06` | `kod01` | `initial_dashboard_state_summary.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum06/kod01/initial_dashboard_state_summary.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum06/kod01) |
-| `bolum06` | `kod02` | `selected_module_state_transition.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum06/kod02/selected_module_state_transition.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum06/kod02) |
-| `bolum06` | `kod03` | `functional_update_unread_count.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum06/kod03/functional_update_unread_count.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum06/kod03) |
-| `bolum06` | `kod04` | `immutable_favorite_event_update.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum06/kod04/immutable_favorite_event_update.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum06/kod04) |
-| `bolum06` | `kod05` | `filter_modules_by_search_text.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum06/kod05/filter_modules_by_search_text.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum06/kod05) |
-| `bolum07` | `kod01` | `effect_candidate_classifier.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum07/kod01/effect_candidate_classifier.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum07/kod01) |
-| `bolum07` | `kod02` | `dependency_array_decision.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum07/kod02/dependency_array_decision.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum07/kod02) |
-| `bolum07` | `kod03` | `fake_announcements_loader.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum07/kod03/fake_announcements_loader.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum07/kod03) |
-| `bolum07` | `kod04` | `dependency_change_checker.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum07/kod04/dependency_change_checker.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum07/kod04) |
-| `bolum07` | `kod05` | `cleanup_subscription_registry.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum07/kod05/cleanup_subscription_registry.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum07/kod05) |
-| `bolum07` | `kod06` | `fake_storage_preferences.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum07/kod06/fake_storage_preferences.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum07/kod06) |
-| `bolum08` | `kod01` | `ref_box_without_render.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum08/kod01/ref_box_without_render.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum08/kod01) |
-| `bolum08` | `kod02` | `context_value_snapshot.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum08/kod02/context_value_snapshot.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum08/kod02) |
-| `bolum08` | `kod03` | `memoized_module_summary.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum08/kod03/memoized_module_summary.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum08/kod03) |
-| `bolum08` | `kod04` | `callback_identity_by_dependency.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum08/kod04/callback_identity_by_dependency.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum08/kod04) |
-| `bolum08` | `kod05` | `campushub_dashboard_view_model.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum08/kod05/campushub_dashboard_view_model.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum08/kod05) |
-| `bolum08` | `kod06` | `timer_ref_cleanup_simulation.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum08/kod06/timer_ref_cleanup_simulation.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum08/kod06) |
-| `bolum09` | `kod01` | `react_ch09_code01_module_filter.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum09/kod01/react_ch09_code01_module_filter.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum09/kod01) |
-| `bolum09` | `kod02` | `react_ch09_code02_preference_store.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum09/kod02/react_ch09_code02_preference_store.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum09/kod02) |
-| `bolum09` | `kod03` | `react_ch09_code03_announcement_filter.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum09/kod03/react_ch09_code03_announcement_filter.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum09/kod03) |
-| `bolum09` | `kod04` | `react_ch09_code04_async_resource.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum09/kod04/react_ch09_code04_async_resource.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum09/kod04) |
-| `bolum09` | `kod05` | `react_ch09_code05_dashboard_model.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum09/kod05/react_ch09_code05_dashboard_model.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum09/kod05) |
-| `bolum09` | `kod06` | `react_ch09_code06_hook_checklist.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum09/kod06/react_ch09_code06_hook_checklist.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum09/kod06) |
-| `bolum10` | `kod01` | `react_ch10_code01_routes.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum10/kod01/react_ch10_code01_routes.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum10/kod01) |
-| `bolum10` | `kod02` | `react_ch10_code02_navlink_active.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum10/kod02/react_ch10_code02_navlink_active.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum10/kod02) |
-| `bolum10` | `kod03` | `react_ch10_code03_dynamic_param.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum10/kod03/react_ch10_code03_dynamic_param.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum10/kod03) |
-| `bolum10` | `kod04` | `react_ch10_code06_query_access.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum10/kod04/react_ch10_code06_query_access.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum10/kod04) |
-| `bolum10` | `kod05` | `react_ch10_code04_not_found_match.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum10/kod05/react_ch10_code04_not_found_match.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum10/kod05) |
-| `bolum10` | `kod06` | `react_ch10_code05_page_title.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum10/kod06/react_ch10_code05_page_title.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum10/kod06) |
-| `bolum11` | `kod01` | `chapter_11_react_ch11_code01_normalize_profile.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum11/kod01/chapter_11_react_ch11_code01_normalize_profile.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum11/kod01) |
-| `bolum11` | `kod02` | `chapter_11_react_ch11_code03_update_field.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum11/kod02/chapter_11_react_ch11_code03_update_field.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum11/kod02) |
-| `bolum11` | `kod03` | `chapter_11_react_ch11_code05_note_payload.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum11/kod03/chapter_11_react_ch11_code05_note_payload.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum11/kod03) |
-| `bolum11` | `kod04` | `chapter_11_react_ch11_code02_validate_profile.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum11/kod04/chapter_11_react_ch11_code02_validate_profile.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum11/kod04) |
-| `bolum11` | `kod05` | `chapter_11_react_ch11_code06_field_feedback.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum11/kod05/chapter_11_react_ch11_code06_field_feedback.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum11/kod05) |
-| `bolum11` | `kod06` | `chapter_11_react_ch11_code04_dirty_fields.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum11/kod06/chapter_11_react_ch11_code04_dirty_fields.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum11/kod06) |
-| `bolum12` | `kod01` | `chapter_12_react_ch12_code01_state_scope.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum12/kod01/chapter_12_react_ch12_code01_state_scope.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum12/kod01) |
-| `bolum12` | `kod02` | `chapter_12_react_ch12_code02_preferences_reducer.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum12/kod02/chapter_12_react_ch12_code02_preferences_reducer.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum12/kod02) |
-| `bolum12` | `kod03` | `chapter_12_react_ch12_code03_announcements_reducer.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum12/kod03/chapter_12_react_ch12_code03_announcements_reducer.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum12/kod03) |
-| `bolum12` | `kod04` | `chapter_12_react_ch12_code04_selectors.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum12/kod04/chapter_12_react_ch12_code04_selectors.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum12/kod04) |
-| `bolum12` | `kod05` | `chapter_12_react_ch12_code05_prepare_payload.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum12/kod05/chapter_12_react_ch12_code05_prepare_payload.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum12/kod05) |
-| `bolum12` | `kod06` | `chapter_12_react_ch12_code06_state_snapshot.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum12/kod06/chapter_12_react_ch12_code06_state_snapshot.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum12/kod06) |
-| `bolum13` | `kod01` | `chapter_13_react_ch13_code01_endpoint_builder.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum13/kod01/chapter_13_react_ch13_code01_endpoint_builder.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum13/kod01) |
-| `bolum13` | `kod02` | `chapter_13_react_ch13_code02_response_normalizer.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum13/kod02/chapter_13_react_ch13_code02_response_normalizer.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum13/kod02) |
-| `bolum13` | `kod03` | `chapter_13_react_ch13_code03_http_status_guard.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum13/kod03/chapter_13_react_ch13_code03_http_status_guard.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum13/kod03) |
-| `bolum13` | `kod04` | `chapter_13_react_ch13_code04_loading_state_reducer.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum13/kod04/chapter_13_react_ch13_code04_loading_state_reducer.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum13/kod04) |
-| `bolum13` | `kod05` | `chapter_13_react_ch13_code05_stale_response_guard.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum13/kod05/chapter_13_react_ch13_code05_stale_response_guard.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum13/kod05) |
-| `bolum13` | `kod06` | `chapter_13_react_ch13_code06_post_note_request.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum13/kod06/chapter_13_react_ch13_code06_post_note_request.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum13/kod06) |
-| `bolum14` | `kod01` | `chapter_14_react_ch14_code01_create_preference_store.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum14/kod01/chapter_14_react_ch14_code01_create_preference_store.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum14/kod01) |
-| `bolum14` | `kod02` | `chapter_14_react_ch14_code02_update_preferences.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum14/kod02/chapter_14_react_ch14_code02_update_preferences.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum14/kod02) |
-| `bolum14` | `kod03` | `chapter_14_react_ch14_code03_announcement_selector.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum14/kod03/chapter_14_react_ch14_code03_announcement_selector.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum14/kod03) |
-| `bolum14` | `kod04` | `chapter_14_react_ch14_code04_subscription_simulation.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum14/kod04/chapter_14_react_ch14_code04_subscription_simulation.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum14/kod04) |
-| `bolum14` | `kod05` | `chapter_14_react_ch14_code05_persist_partial_state.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum14/kod05/chapter_14_react_ch14_code05_persist_partial_state.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum14/kod05) |
-| `bolum14` | `kod06` | `chapter_14_react_ch14_code06_state_tool_decision.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum14/kod06/chapter_14_react_ch14_code06_state_tool_decision.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum14/kod06) |
-| `bolum15` | `kod01` | `chapter_15_react_ch15_code01_memo_decision.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum15/kod01/chapter_15_react_ch15_code01_memo_decision.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum15/kod01) |
-| `bolum15` | `kod02` | `chapter_15_react_ch15_code02_performance_budget.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum15/kod02/chapter_15_react_ch15_code02_performance_budget.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum15/kod02) |
-| `bolum15` | `kod03` | `chapter_15_react_ch15_code03_test_matrix.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum15/kod03/chapter_15_react_ch15_code03_test_matrix.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum15/kod03) |
-| `bolum15` | `kod04` | `chapter_15_react_ch15_code04_api_state_tests.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum15/kod04/chapter_15_react_ch15_code04_api_state_tests.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum15/kod04) |
-| `bolum15` | `kod05` | `chapter_15_react_ch15_code05_vite_scripts.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum15/kod05/chapter_15_react_ch15_code05_vite_scripts.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum15/kod05) |
-| `bolum15` | `kod06` | `chapter_15_react_ch15_code06_release_gate.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum15/kod06/chapter_15_react_ch15_code06_release_gate.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum15/kod06) |
-| `bolum16` | `kod01` | `chapter_16_react_ch16_code01_module_readiness.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum16/kod01/chapter_16_react_ch16_code01_module_readiness.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum16/kod01) |
-| `bolum16` | `kod02` | `chapter_16_react_ch16_code02_route_coverage.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum16/kod02/chapter_16_react_ch16_code02_route_coverage.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum16/kod02) |
-| `bolum16` | `kod03` | `chapter_16_react_ch16_code03_state_ownership.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum16/kod03/chapter_16_react_ch16_code03_state_ownership.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum16/kod03) |
-| `bolum16` | `kod04` | `chapter_16_react_ch16_code04_dashboard_sources.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum16/kod04/chapter_16_react_ch16_code04_dashboard_sources.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum16/kod04) |
-| `bolum16` | `kod05` | `chapter_16_react_ch16_code05_env_validation.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum16/kod05/chapter_16_react_ch16_code05_env_validation.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum16/kod05) |
-| `bolum16` | `kod06` | `chapter_16_react_ch16_code06_release_gate.js` | `passed` | [source](https://github.com/bmdersleri/react-web/blob/main/kodlar/bolum16/kod06/chapter_16_react_ch16_code06_release_gate.js) | [page](https://bmdersleri.github.io/react-web/kodlar/bolum16/kod06) |
+Kitabın tüm kod örneklerine buradan ulaşabilirsiniz.
+{: .fs-6 .fw-300 }
+
+[Kod Örnekleri →](/react-web/kodlar/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[GitHub →](https://github.com/bmdersleri/react-web){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+## Hakkında
+
+Bu site, **88 JavaScript kod bloğunu** içeren kitabın eşlik eden kod deposudur.
+Her bölümde yer alan kod örneklerini inceleyebilir, GitHub üzerinden kaynaklara erişebilir,
+kitaptaki QR kodlarını okuyarak doğrudan ilgili sayfaya ulaşabilirsiniz.
+
+| Özellik | Değer |
+|---|---|
+| Toplam kod bloğu | **88** |
+| Bölüm sayısı | **16** |
+| Dil | JavaScript |
+| Test durumu | ✅ 88/88 geçti |
+
+---
+
+## Bölümler
+
+| Bölüm | Kod sayısı |
+|---|---|
+| [1. Modern Web'e Giriş](/react-web/kodlar/bolum01/) | 3 |
+| [2. JavaScript ES6+ ve React](/react-web/kodlar/bolum02/) | 5 |
+| [3. HTML/CSS ve Bileşen](/react-web/kodlar/bolum03/) | 5 |
+| [4. JSX ve Bileşen Anatomisi](/react-web/kodlar/bolum04/) | 5 |
+| [5. Props ve Veri Akışı](/react-web/kodlar/bolum05/) | 5 |
+| [6. State Yönetimi](/react-web/kodlar/bolum06/) | 5 |
+| [7. useEffect ve Yan Etkiler](/react-web/kodlar/bolum07/) | 6 |
+| [8. İleri Hooks](/react-web/kodlar/bolum08/) | 6 |
+| [9. Custom Hooks](/react-web/kodlar/bolum09/) | 6 |
+| [10. React Router](/react-web/kodlar/bolum10/) | 6 |
+| [11. Form Yönetimi](/react-web/kodlar/bolum11/) | 6 |
+| [12. Redux Toolkit](/react-web/kodlar/bolum12/) | 6 |
+| [13. REST API](/react-web/kodlar/bolum13/) | 6 |
+| [14. Zustand](/react-web/kodlar/bolum14/) | 6 |
+| [15. Performans ve Test](/react-web/kodlar/bolum15/) | 6 |
+| [16. KampüsHub Final](/react-web/kodlar/bolum16/) | 6 |

@@ -1,8 +1,10 @@
 ---
-title: "jsx_expression_model"
 code_id: "react_ch04_code01"
 language: "javascript"
 test_status: "passed"
+title: "jsx_expression_model"
+parent: "Bölüm 4: JSX ve Bileşen Anatomisi"
+grand_parent: "Kod Örnekleri"
 ---
 
 # jsx_expression_model

@@ -1,8 +1,10 @@
 ---
-title: "chapter_14_react_ch14_code01_create_preference_store.js"
 code_id: "react_ch14_code01"
 language: "javascript"
 test_status: "passed"
+title: "react_ch14_code01"
+parent: "Bölüm 14: Zustand"
+grand_parent: "Kod Örnekleri"
 ---
 
 # chapter_14_react_ch14_code01_create_preference_store.js

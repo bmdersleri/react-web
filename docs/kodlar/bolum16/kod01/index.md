@@ -1,8 +1,10 @@
 ---
-title: "chapter_16_react_ch16_code01_module_readiness.js"
 code_id: "react_ch16_code01"
 language: "javascript"
 test_status: "passed"
+title: "react_ch16_code01"
+parent: "Bölüm 16: KampüsHub Final"
+grand_parent: "Kod Örnekleri"
 ---
 
 # chapter_16_react_ch16_code01_module_readiness.js

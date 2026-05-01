@@ -1,8 +1,10 @@
 ---
-title: "kampushub_proje_bilgisi"
 code_id: "react_ch01_code02"
 language: "javascript"
 test_status: "passed"
+title: "kampushub_proje_bilgisi"
+parent: "Bölüm 1: Modern Web'e Giriş"
+grand_parent: "Kod Örnekleri"
 ---
 
 # kampushub_proje_bilgisi

@@ -1,8 +1,10 @@
 ---
-title: "timer_ref_cleanup_simulation"
 code_id: "react_ch08_code06"
 language: "javascript"
 test_status: "passed"
+title: "timer_ref_cleanup_simulation"
+parent: "Bölüm 8: İleri Hooks"
+grand_parent: "Kod Örnekleri"
 ---
 
 # timer_ref_cleanup_simulation

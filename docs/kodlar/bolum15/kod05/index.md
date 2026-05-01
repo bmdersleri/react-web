@@ -1,8 +1,10 @@
 ---
-title: "chapter_15_react_ch15_code05_vite_scripts.js"
 code_id: "react_ch15_code05"
 language: "javascript"
 test_status: "passed"
+title: "react_ch15_code05"
+parent: "Bölüm 15: Performans ve Test"
+grand_parent: "Kod Örnekleri"
 ---
 
 # chapter_15_react_ch15_code05_vite_scripts.js

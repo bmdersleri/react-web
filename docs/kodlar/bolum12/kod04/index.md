@@ -1,8 +1,10 @@
 ---
-title: "chapter_12_react_ch12_code04_selectors.js"
 code_id: "react_ch12_code04"
 language: "javascript"
 test_status: "passed"
+title: "react_ch12_code04"
+parent: "Bölüm 12: Redux Toolkit"
+grand_parent: "Kod Örnekleri"
 ---
 
 # chapter_12_react_ch12_code04_selectors.js

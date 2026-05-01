@@ -1,8 +1,10 @@
 ---
-title: "kampushub_component_inventory"
 code_id: "react_ch03_code03"
 language: "javascript"
 test_status: "passed"
+title: "kampushub_component_inventory"
+parent: "Bölüm 3: HTML/CSS ve Bileşen"
+grand_parent: "Kod Örnekleri"
 ---
 
 # kampushub_component_inventory
