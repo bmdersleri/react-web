@@ -10,6 +10,13 @@ chapters:
   - source: ../chapters/chapter_06_state_yonetimi.md
   - source: ../chapters/chapter_07_useeffect_yan_etkiler.md
   - source: ../chapters/chapter_08_ileri_hooks.md
+  - source: ../chapters/chapter_09_custom_hooks.md
+  - source: ../chapters/chapter_10_react_router.md
+  - source: ../chapters/chapter_11_form_yonetimi.md
+  - source: ../chapters/chapter_13_rest_api.md
+  - source: ../chapters/chapter_14_zustand.md
+  - source: ../chapters/chapter_15_performans_test_dagitim.md
+  - source: ../chapters/chapter_15_firebase.md
 
 post_production:
   build:
